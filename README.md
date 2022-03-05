@@ -6,7 +6,7 @@
   <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLops&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
- <!--
+ <!-- 
 <div style="display: inline_block" align="end"><br>
   <img align="center" alt="Walte-C-plus-plus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Walte-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
